@@ -1,0 +1,10 @@
+{
+  "name": "fishesCaught",
+  "version": "1.0.0",
+  "description": "Website for showing fishes you caught",
+  "main": "index.js",
+  "repository": "https://github.com/Artex3428/fishesCaught.git",
+  "author": "Artex3428",
+  "license": "MIT",
+  "private": false
+}

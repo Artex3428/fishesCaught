@@ -1,0 +1,3 @@
+Make a website using go for the server, mysql for database, svelte with vite, yarn as the framework and also git. It should contain some sort of search, login system, different languages to chose between, dark and light theme.
+
+It should be a website where you can upload once loged in fishes you caught and info about it with a picture or more. Then you will display that on the main page where users and you can find all fishes you caught.
